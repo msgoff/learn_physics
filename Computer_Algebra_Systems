@@ -1,0 +1,13 @@
+http://fricas-wiki.math.uni.wroc.pl/RosettaStone  
+
+The following is a collection of synonyms for various operations in
+the computer algebra systems [Axiom], [Derive], [GAP], [Gmp], DoCon,
+[Macsyma], [Magnus], [Maxima], [Maple], [Mathematica], [MuPAD], [Octave],
+[Pari], [Reduce], [Scilab], [Sumit] and [Yacas]. This collection does not
+attempt to be comprehensive, but hopefully it will be useful in giving
+an indication of how to translate between the syntaxes used by the
+different systems in many common situations. Note that a blank entry
+means either (a) that there may be an exact translation of a
+particular operation for the indicated system, but we don't know what
+it is or (b) there is no exact translation but it may still be
+possible to work around this lack with a related functionality.
